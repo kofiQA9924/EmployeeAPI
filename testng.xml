@@ -1,0 +1,13 @@
+<suite name="RESTTEST">
+    <test name="EmployeeTest">
+        <classes>
+            <class name="com.employeeapi.testCases.GETEmployeeID">
+
+            </class>
+        </classes>
+        <Listeners>
+            <Listener name="Reporting.TestListener">
+            </Listener>
+        </Listeners>
+    </test>
+</suite>
