@@ -1,0 +1,2 @@
+Please ignore all test in "RestAssured" package.
+Test in RestAssured package are not part of the Employee API Test.
